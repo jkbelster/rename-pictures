@@ -14,7 +14,7 @@ This function returns a list of files that could not be renamed due to an incorr
 
 ## To do
 At the moment this script only supports .jpg files.
-Support for .png and .nef files (Nikon raw image file).
+Support for .png and .nef files (Nikon raw image file) is planned.
 
 ## License
 [MIT](https://github.com/jkbelster/rename-pictures/blob/main/LICENSE)
